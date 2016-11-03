@@ -17,3 +17,7 @@ console.log(i);
  * line
 
  $ test  
+
+[GitHub](http://github.com)  
+[Sina](http://www.sina.com)  
+
