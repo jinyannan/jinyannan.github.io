@@ -26,9 +26,5 @@ console.log(i);
 [GitHub](http://github.com)  
 [Sina](http://www.sina.com)  
 
-<<<<<<< Updated upstream
 ![my image](IMG_3583.JPG)  
 # heihei  
-=======
-[GitHub Logo](/images/logo.png)  
->>>>>>> Stashed changes
